@@ -1,0 +1,3 @@
+paper_app/.conda/
+paper_app/__pycache__/
+*.pyc
